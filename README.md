@@ -28,3 +28,4 @@
 | Chat Interface       | Streamlit                                     |
 
 ## 📸 Screenshot
+![Mental Health Chatbot](https://github.com/SANSKARKURUDE/Mental-Health-Chatbot/blob/main/Screenshot%202025-07-09%20010209.png)
